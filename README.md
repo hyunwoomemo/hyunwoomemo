@@ -1,6 +1,6 @@
 ### 안녕하세요, 이현우입니다. 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-![63487-programming-computer](https://user-images.githubusercontent.com/105469077/235861937-4fe9c54f-c2db-49ca-beb2-acb232d8c1f6.gif)
+[63487-programming-computer](https://user-images.githubusercontent.com/105469077/235861937-4fe9c54f-c2db-49ca-beb2-acb232d8c1f6.gif)
 
 <!--
 **hyunwoomemo/hyunwoomemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

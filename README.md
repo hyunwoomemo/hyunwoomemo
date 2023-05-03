@@ -4,8 +4,8 @@
 
 ### 링크
 <p style="text-aling:center">
-  <img src="https://img.shields.io/badge/devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=white">
+<img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-squre&logo=Instargram&logoColor=white">
 </p>
 
 ### 기술 스택

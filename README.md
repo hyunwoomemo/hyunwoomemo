@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/badge/nextjs-fff?style=flat-squre&logo=Next.js&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-squre&logo=Redux&logoColor=black">
 <img src="https://img.shields.io/badge/gatsby-663399?style=flat-squre&logo=Gatsby&logoColor=black">
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat-squre&logo=HTML5&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-squre&logo=CSS3&logoColor=black">
-  <img src="https://img.shields.io/badge/nodejs-339933?style=flat-squre&logo=Node.js&logoColor=black">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-squre&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-squre&logo=CSS3&logoColor=black">
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-squre&logo=Node.js&logoColor=black">
 </div>
 
 <!--

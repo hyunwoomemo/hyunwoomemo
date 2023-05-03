@@ -3,7 +3,7 @@
 ## 링크 
 <p style="text-aling:center">
   <a href="https://hyunwoomemo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squre&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/hyunwoomemo/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squre&logo=Instagram&logoColor=white"></a>
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunwoomemo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

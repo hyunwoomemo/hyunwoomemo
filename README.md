@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-squre&logo=Amazon AWS&logoColor=black">
   <img src="https://img.shields.io/badge/aws RDS-527FFF?style=flat-squre&logo=Amazon RDS&logoColor=black">
   <img src="https://img.shields.io/badge/aws EC2-FF9900?style=flat-squre&logo=Amazon EC2&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squre&logo=MySQL&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squre&logo=MySQL&logoColor=white">
 </div>
 
 <!--

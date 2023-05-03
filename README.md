@@ -3,9 +3,11 @@
 ## 안녕하세요, 이현우입니다. 👋🏻
 
 ### 기술 스택
-<span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black"></span>
-<span><img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black"></sapn>
-
+<div style="display:flex">
+  
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black">
+</div>
 
 <!--
 **hyunwoomemo/hyunwoomemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,10 +3,10 @@
 ## 안녕하세요, 이현우입니다. 👋🏻
 
 ### 링크
-<div style="display: flex; width:100%; justify-content: center;">
+<p style="text-aling:center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black">
-</div>
+</p>
 
 ### 기술 스택
 <div style="display:flex">

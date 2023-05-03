@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
-### 기술 스택
+## 안녕하세요, 이현우입니다. 👋🏻
+
+### <center>기술 스택</center>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
+
 
 
 <!--

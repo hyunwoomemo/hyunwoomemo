@@ -6,7 +6,7 @@
 <div style="display:flex">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/nextjs-000000?style=flat-squre&logo=Next.js&logoColor=black">
+  <img src="https://img.shields.io/badge/nextjs-fff?style=flat-squre&logo=Next.js&logoColor=black">
 
 </div>
 

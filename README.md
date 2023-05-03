@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
-## 안녕하세요, 이현우입니다. 👋🏻
-
-### 링크
+## 링크 
 <p style="text-aling:center">
   <img src="https://img.shields.io/badge/Devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=white">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squre&logo=Instagram&logoColor=white">
@@ -10,7 +8,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunwoomemo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 기술 스택
+## 기술 스택 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black">

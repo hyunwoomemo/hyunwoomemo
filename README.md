@@ -4,7 +4,7 @@
 
 ### 링크
 <p style="text-aling:center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=React&logoColor=black">
 </p>
 

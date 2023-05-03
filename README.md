@@ -1,7 +1,8 @@
-### 안녕하세요, 이현우입니다. 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+## 안녕하세요, 이현우입니다. 👋
 
+### 기술 스택
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=JavaScript&logoColor=black">
+
 
 <!--
 **hyunwoomemo/hyunwoomemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

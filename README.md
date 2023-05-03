@@ -3,7 +3,7 @@
 ## 안녕하세요, 이현우입니다. 👋🏻
 
 ### 링크
-<div style="display: flex; justify-context:center; ">
+<div style="display: flex; justify-content:center;">
 ㄴ
 </div>
 

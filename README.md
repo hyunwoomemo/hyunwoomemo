@@ -2,7 +2,7 @@
 
 ## 링크 
 <p style="text-aling:center">
-  <img src="https://img.shields.io/badge/Devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=white">
+  <a href="https://hyunwoomemo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Devlog-0A0A0A?style=flat-squre&logo=dev.to&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squre&logo=Instagram&logoColor=white">
 </p>
 

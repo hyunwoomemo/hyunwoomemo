@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-squre&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000?style=flat-squre&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95428?style=flat-squre&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/pwa-5A0FC8?style=flat-squre&logo=PWA&logoColor=white">
 </div>
 
 

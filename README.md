@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/pwa-5A0FC8?style=flat-squre&logo=PWA&logoColor=white">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hyunwoomemo/hyunwoomemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

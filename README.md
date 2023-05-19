@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/pwa-5A0FC8?style=flat-squre&logo=PWA&logoColor=white">
 </div>
 
-## Top Languages
+## 🛠️ Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwoomemo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
